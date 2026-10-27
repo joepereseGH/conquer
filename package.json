@@ -1,0 +1,16 @@
+{
+  "name": "conquer",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node --test"
+  },
+  "author": "kirasolo",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.23"
+  }
+}
